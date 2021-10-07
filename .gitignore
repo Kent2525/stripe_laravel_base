@@ -3,3 +3,5 @@
 
 # Docker Compose
 .env
+todo.txt
+/config/payment.php
